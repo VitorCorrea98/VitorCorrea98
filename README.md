@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VitorCorrea98
+- 👋 Hi, I’m Vitor Corea
 - 👀 I’m interested Programing 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Front-End Development
