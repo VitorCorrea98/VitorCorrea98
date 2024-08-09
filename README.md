@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorcorrea98&show_icons=true&locale=en" alt="vitorcorrea98" /></p>
 
