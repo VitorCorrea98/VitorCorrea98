@@ -17,7 +17,6 @@ Hey! I’m Vitor Corrêa, a developer who enjoys solving problems with code, kee
 Some quick facts about me:
 - I'm deep into **TypeScript** and backend development  
 - I love working with **DDD and decoupled architecture**
-- Currently exploring **Arch Linux with i3**, Neovim and a full terminal-based workflow 🧪
 
 But life’s not just code, right?  
 When I’m not coding, you’ll probably find me:
